@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carlos Mijares :Tecnólogo:</h1><h3 align="center">Un apasionado desarrollador frontend de la India</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
+<h1 align="center">Hola 👋, soy Carlos Mijares </h1><h3 align="center">Un apasionado desarrollador frontend de la India</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
 
 
 
