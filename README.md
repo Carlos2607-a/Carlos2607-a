@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Carlos.mijares0993@gmail.com**
 
-- Tax Administrator [Universidad Américo Vespucio](Universidad Américo Vespucio)
+- Tax Administrator (Universidad Américo Vespucio)
 
 - ⚡ Fun fact **I have fun learning**
 
