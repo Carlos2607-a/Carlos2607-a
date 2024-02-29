@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FutMatch](https://futmatch.site/)
 
-- 🤝 I’m looking for help with **GiftMe**
+- 🤝 I'm collaborating in **GiftMe**
 
 - 🌱 I'm getting certified in [Data Sciencie IBM](Data Sciencie IBM)
 
