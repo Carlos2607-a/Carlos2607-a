@@ -1,6 +1,4 @@
 <h1 align="center">Hello 👋, I'm Carlos Mijares</h1>
-<p align="center">
-  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://www.canva.com/design/DAGDiiC_xek/cPBmwBGKEXV2gwbcKSQokg/edit?utm_content=DAGDiiC_xek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" height="200"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
 
 <!--- snake -->
