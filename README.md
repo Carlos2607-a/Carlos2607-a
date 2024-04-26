@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Carlos Mijares 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/undefined)](https://imgur.com/fWNbcts)">
+<img src=[https://i.imgur.com/weNbhGZ.png">
 
 <!--- snake -->
 <div align="center">
