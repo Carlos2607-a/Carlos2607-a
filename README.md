@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos Mijares</h1>
 <h3 align="center">A passionate Data Sciencie</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos2607-a" alt="carlos2607-a" /></a> </p>
