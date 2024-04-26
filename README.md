@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Carlos Mijares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/jimkHGY)">
 
 <!--- snake -->
 <div align="center">
