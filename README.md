@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Carlos Mijares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos2607-a&label=Profile%20views&color=0e75b6&style=flat" alt="carlos2607-a" /> </p>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently working on **GestRest**
 
 - 🤝 I'm collaborating in **GiftMe**
