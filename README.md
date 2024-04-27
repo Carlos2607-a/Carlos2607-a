@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Sciencie</h3>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png](https://github.com/Carlos2607-a/Carlos2607-a/blob/main/Cient%C3%ADfico%20de%20Datos.png)" alt="Banner" style="border-radius: 90%;">
+  <img src="[[[https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png](https://github.com/Carlos2607-a/Carlos2607-a/blob/main/Cient%C3%ADfico%20de%20Datos.png](https://github.com/Carlos2607-a/Carlos2607-a/blob/ef0d2a780dd5ac9c99ff2c4ede0a67b423d9a62e/Cient%C3%ADfico%20de%20Datos.png))](https://github.com/Carlos2607-a/Carlos2607-a/blob/ef0d2a780dd5ac9c99ff2c4ede0a67b423d9a62e/Cient%C3%ADfico%20de%20Datos.png)" alt="Banner" style="border-radius: 90%;">
 </p>
 
 <!--- snake -->
