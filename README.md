@@ -10,12 +10,13 @@
        alt="snake" /></a>
 </div>
 
-
-- 🔭 I’m currently working on [GestRest](https://gestrest.streamlit.app/)
-
-- 💬 Teach me about **Everything related to technology**
-
-- 📫 How to reach me **Carlos.mijares0993@gmail.com**
+## Data Science
+| Course                                             | Fecha       |
+|---------------------------------------------------|-------------|
+| 📚 Machine Learning Engineering (4Geeks Academy)  | 03-2024     |
+| 📚 Probability Fundamentals and Applications      | 04-2024    |
+| 📚 Advanced Database                              |  Present    |
+| 📚 Big Data and Business Intelligence             | Present     |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
