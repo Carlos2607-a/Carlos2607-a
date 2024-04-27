@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on [GestRest](https://gestrest.streamlit.app/)
 
-- 🌱 I’m currently learning **Streamlit, Powe BI**
-
 - 💬 Teach me about **Everything related to technology**
 
 - 📫 How to reach me **Carlos.mijares0993@gmail.com**
@@ -28,19 +26,26 @@
 </p>
 
 ## My Skills
-- Data Analysis
+- Business Analytics
 - Machine Learning
+- Databases: SQL
 - Deep Learning
+- Version Control Tools: Git
+- Visualization Tools: PowerBI
 - Pandas
 - Numpy
-- Databases: SQL
-- Visualization Tools: PowerBI
-- Machine Learning Libraries
-  - Scikit-learn
-  - TensorFlow
-- PyTorch (In development)
-- Natural Language Processing (NLP) and Image Processing (In development)
+- TensorFlow
+- Streamlit 
+- Natural Language Processing (NLP) and Image Processing 
 - Version Control Tools: Git
+
+  ## Idioms.
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos2607-a&show_icons=true&locale=en&layout=compact" alt="carlos2607-a" /></p>
 
