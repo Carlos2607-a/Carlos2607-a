@@ -10,6 +10,13 @@
        alt="snake" /></a>
 </div>
 
+
+# Experiencie IT:
+
+## Currently
+- In Project (GestRest)
+- In collaboration (GifMe)
+
 ## Data Science
 | Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
