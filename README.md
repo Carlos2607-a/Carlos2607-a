@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="![Científico de Datos](https://github.com/Carlos2607-a/Carlos2607-a/assets/136937640/f65c1418-5e36-487d-b397-dcba9169e13b)" alt="Científico de Datos" style="border-radius: 80%;" width="900">
-</p>
+
+![Científico de Datos](https://github.com/Carlos2607-a/Carlos2607-a/assets/136937640/f65c1418-5e36-487d-b397-dcba9169e13b)
+
 
 
 
