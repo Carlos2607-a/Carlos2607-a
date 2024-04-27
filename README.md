@@ -15,8 +15,8 @@
 |---------------------------------------------------|-------------|
 | 📚 Machine Learning Engineering (4Geeks Academy)  | 03-2024     |
 | 📚 Probability Fundamentals and Applications      | 04-2024    |
-| 📚 Advanced Database                              |  Present    |
-| 📚 Big Data and Business Intelligence             | Present     |
+| 📚 Advanced Database                              | Present    |
+| 📚 business analytics                             | Present     |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
