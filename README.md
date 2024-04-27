@@ -25,7 +25,7 @@
 | 📚 Business Analytics                             | Present     |
 
 ## ADE
-| University                                             | Fecha       |
+| Title                                             | Fecha       |
 |---------------------------------------------------|-------------|
 | 📚 Business Administration                        | 09-2014     |
 | 📚 Tax Administration                             | 04-2012    |
