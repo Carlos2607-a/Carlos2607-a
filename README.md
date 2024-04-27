@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos Mijares</h1>
 <h3 align="center">A passionate Data Sciencie</h3>
 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png](https://github.com/Carlos2607-a/Carlos2607-a/blob/main/Cient%C3%ADfico%20de%20Datos.png)" alt="Banner" style="border-radius: 90%;">
+</p>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
