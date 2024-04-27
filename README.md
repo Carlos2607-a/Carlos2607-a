@@ -15,8 +15,9 @@
 
 ## Currently
 - In Project (GestRest)
+  GestRest : Creation of software for restaurant management, allows you to streamline the ordering of raw materials, inventory tracking and other features.
 - In collaboration (GifMe)
-
+  GifMe : Gift list application to be able to make a subscription in several online stores to allow you to get the best price in advance.
 ## Data Science
 | Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
