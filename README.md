@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos Mijares</h1>
 <h3 align="center">A passionate Data Sciencie</h3>
 
-![Científico de Datos](https://github.com/Carlos2607-a/Carlos2607-a/assets/136937640/a5f9cf24-0e2f-4ccb-a9e7-bbc7776030ca)
+<p align="center">
+  <img src="https://github.com/Carlos2607-a/Carlos2607-a/assets/136937640/a5f9cf24-0e2f-4ccb-a9e7-bbc7776030ca" alt="Científico de Datos" style="border-radius: 150%;" width="500">
+</p>
+
 
 
 <!--- snake -->
