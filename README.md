@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Sciencie</h3>
 
 <p align="center">
-  <img src="https://github.com/Carlos2607-a/Carlos2607-a/raw/main/Cient%C3%ADfico%20de%20Datos.png" alt="Banner" style="border-radius: 90%;">
+  <img src="https://github.com/Carlos2607-a/Carlos2607-a/raw/main/Cient%C3%ADfico%20de%20Datos.png" alt="Banner" style="border-radius: 150%;">
 </p>
 
 
