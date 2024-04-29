@@ -1,5 +1,5 @@
 
-![Científico de Datos](https://github.com/Carlos2607-a/Carlos2607-a/assets/136937640/f65c1418-5e36-487d-b397-dcba9169e13b)
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1)](https://github.com/Carlos2607-a/GestRest/assets/136937640/b4556ee4-cfc9-4aa5-8753-ae6aeb685374)
 
 
 
