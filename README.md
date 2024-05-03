@@ -21,6 +21,7 @@
 |---------------------------------------------------|-------------|
 | 📚 Machine Learning Engineering (4Geeks Academy)  | 03-2024     |
 | 📚 Probability Fundamentals and Applications      | 04-2024    |
+| 📚 Generative AI for Executive and Business Leaders | 05-2024   |
 | 📚 Advanced Database                              | Present    |
 | 📚 Business Analytics                             | Present     |
 
