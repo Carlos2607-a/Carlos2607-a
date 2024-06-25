@@ -17,14 +17,6 @@
 - In Project Bubbo: Currently working  a content recommendation app for streaming platforms. It’s designed to make it easier for users to find what to watch among the many streaming apps, saving them time and enhancing their viewing experience.
 - In collaboration GestRest : Gift list application to be able to make a subscription in several online stores to allow you to get the best price in advance.
 
-## My Portfolio
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Project 1 | Brief description of the project. What was your role, what technologies were used, what was the outcome, etc. | Link to Project 1 |
-| Project 2 | Brief description of the project. What was your role, what technologies were used, what was the outcome, etc. | Link to Project 2 |
-| Project 3 | Brief description of the project. What was your role, what technologies were used, what was the outcome, etc. | Link to Project 3 |
-
 ## Data Science
 | Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
