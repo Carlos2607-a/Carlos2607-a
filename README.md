@@ -14,16 +14,17 @@
 # Experiencie IT:
 
 ## Currently
-- In Project GestRest : Creation of software for restaurant management, allows you to streamline the ordering of raw materials, inventory tracking and other features.
-- In collaboration GifMe : Gift list application to be able to make a subscription in several online stores to allow you to get the best price in advance.
+- In Project Bubbo: Currently working  a content recommendation app for streaming platforms. It’s designed to make it easier for users to find what to watch among the many streaming apps, saving them time and enhancing their viewing experience.
+- In collaboration GestRest : Gift list application to be able to make a subscription in several online stores to allow you to get the best price in advance.
 ## Data Science
 | Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
 | 📚 Machine Learning Engineering (4Geeks Academy)  | 03-2024     |
 | 📚 Probability Fundamentals and Applications      | 04-2024    |
 | 📚 Generative AI for Executive and Business Leaders | 05-2024   |
-| 📚 Advanced Database                              | Present    |
-| 📚 Business Analytics                             | Present     |
+| 📚 Introduction to Microsoft Azure Cloud Services | 06-2024    |
+| 📚 Certificate to Structured Query Language (SQL) | 06-2024    |
+| 📚 Aspectos básicos: Datos, datos, en todas partes| 06-2024     |
 
 ## ADE
 | Title                                             | Fecha       |
